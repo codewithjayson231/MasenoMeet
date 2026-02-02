@@ -1,0 +1,19 @@
+{
+  "name": "masenomeet",
+  "version": "1.0.0",
+  "description": "A social connection app for Maseno University students",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "dating",
+    "social",
+    "maseno",
+    "university",
+    "kenya"
+  ],
+  "author": "MasenoMeet Team",
+  "license": "MIT"
+}
